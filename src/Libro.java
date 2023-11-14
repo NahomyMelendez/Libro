@@ -10,7 +10,8 @@ public class Libro {
             // Contenido del archivo
             String contenido = "Capítulo 1: Introducción a Git\n" +
                                "Capítulo 2: Flujo de trabajo básico\n" +
-                               "Capítulo 3: Repositorios remotos";
+                               "Capítulo 3: Gestión  de ramas Capítulo "
+                    + "4: Repositorios remotos";
 
             // Escribir el contenido en el archivo
             bw.write(contenido);
